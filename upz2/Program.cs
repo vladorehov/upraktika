@@ -9,7 +9,7 @@ namespace upz2
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {  
             Console.WriteLine("Выберите тему и задание, варианты: 11 12 13 14 15 21 22 23 24 ");
             //
             int vibor = Convert.ToInt32(Console.ReadLine());
